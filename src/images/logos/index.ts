@@ -15,7 +15,10 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
-
+import EiyaLogo from "./eiya.svg"
+import WizelineLogo from "./wizeline.png"
+import KluLogo from "./klu.svg"
+import CashAbroadLogo from "./cashabroad.jpeg"
 export {
   ConsultlyLogo,
   AmbitLogo,
@@ -34,4 +37,8 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  EiyaLogo,
+  WizelineLogo,
+  KluLogo,
+  CashAbroadLogo
 };
